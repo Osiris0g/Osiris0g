@@ -10,12 +10,10 @@
 - 🌐 Learning web development (HTML, CSS, JavaScript) and
 - 📊 Data science fundamentals, as a path toward AI and machine learning.
 - 🏆 Training in C++ for the ICPC
-
-## Projects
+  
 ## GitHub stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Osiris0g&theme=dark&mode=weekly" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Osiris0g&show_icons=true&theme=dark" />
 </p>
 
 ## Contact
