@@ -7,17 +7,11 @@
 
 ## About me
 - 🎓 Software Engineering student at Universidad Autónoma de Yucatán
-- 🌐 Learning web development (HTML, CSS, JavaScript)
+- 🌐 Learning web development (HTML, CSS, JavaScript) and
+- 📊 Data science fundamentals, as a path toward AI and machine learning.
 - 🏆 Training in C++ for the ICPC
-- 🗺️ Building **TourFmat**, an interactive virtual tour of the Facultad de Matemáticas
 
 ## Projects
-| Project | Description |
-|---|---|
-| [TourFmat](https://github.com/Osiris0g/TourFmat) | Interactive virtual tour of UADY's Facultad de Matemáticas |
-| [FMAT-Connect](https://github.com/Osiris0g/FMAT-Connect) | The Facultad de Matemáticas in a single ecosystem |
-| [ICPC-2027](https://github.com/Osiris0g/ICPC-2027) | Preparation for the ICPC 2027 competition |
-
 ## GitHub stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Osiris0g&theme=dark&mode=weekly" />
