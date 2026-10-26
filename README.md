@@ -8,7 +8,7 @@
 ## About me
 - 🎓 Software Engineering student at Universidad Autónoma de Yucatán
 - 🌐 Learning web development (HTML, CSS, JavaScript) and
-- 📊 Data science fundamentals, as a path toward AI and machine learning.
+  Data science fundamentals, as a path toward AI and machine learning.📊
 - 🏆 Training in C++ for the ICPC
   
 ## GitHub stats
