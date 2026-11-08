@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Osiris 👋</h1>
-<p align="center">Software Engineering student at UADY · Mérida, México</p>
+<p align="center">Software Engineering Student at UADY · Mérida, México</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github,vscode" />
